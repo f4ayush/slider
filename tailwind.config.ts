@@ -12,6 +12,9 @@ const config: Config = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        'crew-image-desktop': "url('/assets/crew/background-crew-desktop.jpg')",
+        'crew-image-tablet': "url('/assets/crew/background-crew-tablet.jpg')",
+        'crew-image-mobile': "url('/assets/crew/background-crew-mobile.jpg')",
       },
     },
   },
